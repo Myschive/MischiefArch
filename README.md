@@ -1,4 +1,4 @@
-# 😼 MischiefArch
+# 😼 MischiveArch
 my own (kinda) arch installation. 
 
 >[!NOTE]
