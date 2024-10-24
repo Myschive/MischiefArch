@@ -2,7 +2,7 @@
 my own (kinda) arch installation. 
 
 >[!NOTE]
->Dont use it since its still being worked on and is very unstable.. Use it at your own risk.
+>Dont use it since its still being worked on and is very unstable. Use it at your own risk.
 
 
 >[!WARNING]
