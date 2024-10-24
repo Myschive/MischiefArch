@@ -8,8 +8,6 @@ my own (kinda) arch installation.
 >[!WARNING]
 >Don't run this script as sudo, it gives it more power than necessary, which can add risks with no benefits. 
 
-
-
 ## Installation
 ```bash
 git clone https://github.com/Myschive/MischiefArch.git
